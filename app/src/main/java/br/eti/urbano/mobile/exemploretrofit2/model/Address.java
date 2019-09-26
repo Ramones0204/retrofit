@@ -59,9 +59,6 @@ public class Address {
         this.geo = geo;
     }
 
-
-
-
     @Override
     public String toString() {
         return "Address{" +
